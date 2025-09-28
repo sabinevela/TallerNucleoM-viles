@@ -4,7 +4,7 @@ import React from 'react'
 export default function HomeScreen({ navigation }:any) {
   return (
     <View style={styles.container}>
-      {/* Elementos decorativos de fondo */}
+      
       <View style={styles.backgroundElements}>
         <View style={styles.orb1}></View>
         <View style={styles.orb2}></View>
